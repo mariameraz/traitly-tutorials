@@ -1,3 +1,14 @@
 .ipynb_checkpoints/
 .DS_Store
 __pycache__/
+*.Rhistory
+
+# notebook outputs
+*results.csv
+*parameters.txt
+*processed.jpg
+*RES
+*ext_analysis_results
+*cranberry_slices_parameters.json
+*ext_analysis_sample1_parameters.json
+*Images_from_PDF
