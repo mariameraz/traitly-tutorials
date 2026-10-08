@@ -1,0 +1,9 @@
+{
+  "input_params": {},
+  "apply_color_correction_params": {
+    "degree": 3,
+    "num_components": 11,
+    "max_iterations": 1000,
+    "scaler": "StandardScaler()"
+  }
+}
